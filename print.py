@@ -1,0 +1,5 @@
+print("Sveiks!")
+print("Mani sauc Boriss.")
+print("Es esmu kaķis.")
+print("Man ir 8 gadi.")
+print("Es dzīvoju Jelgavā.")
